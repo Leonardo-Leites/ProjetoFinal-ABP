@@ -1,0 +1,33 @@
+Calorias calculadas para day2.csv usando allShuffled.csv
+
+200g de Pineapple Juice ( 53 calorias por 100g ) =  106 calorias
+50g de Baguette ( 274 calorias por 100g ) =  137 calorias
+20g de Raspberries ( 52 calorias por 100g ) =  10 calorias
+300g de Hot Chocolate ( 89 calorias por 100g ) =  267 calorias
+30g de Walnut Cream Cheese ( 342 calorias por 100g ) =  102 calorias
+150g de Omelette ( 154 calorias por 100g ) =  231 calorias
+20g de Canadian-Style Bacon ( 107 calorias por 100g ) =  21 calorias
+370g de Burger King Double Whopper with Cheese ( 249 calorias por 100g ) =  921 calorias
+500g de Coca Cola ( 42 calorias por 100g ) =  210 calorias
+150g de Ice Cream Sundae ( 142 calorias por 100g ) =  213 calorias
+200g de Coffee ( 1 calorias por 100g ) =  2 calorias
+150g de Peanut Butter Cookies ( 475 calorias por 100g ) =  712 calorias
+190g de Sparkling Wine ( 190 calorias por 100g ) =  361 calorias
+10g de Balsamic Vinaigrette Dressing ( 290 calorias por 100g ) =  29 calorias
+200g de Lobster Bisque Soup ( 100 calorias por 100g ) =  200 calorias
+20g de Lettuce ( 15 calorias por 100g ) =  3 calorias
+200g de Pork Ribs ( 292 calorias por 100g ) =  584 calorias
+50g de White Potatoes ( 94 calorias por 100g ) =  47 calorias
+50g de Bailey�s Irish Cream ( 327 calorias por 100g ) =  163 calorias
+100g de Chocolate Mousse Pie ( 260 calorias por 100g ) =  260 calorias
+
+Total de 4579 calorias consumidas no dia.
+
+========  ESTATÍSTICAS ABP ============
+Numero de nodos:  1993
+Altura:  29
+Rotações:  0
+Comparações:  512
+
+
+Tempo de execução:  37,00000 milisegundos
